@@ -8,7 +8,8 @@
   - High school students first grade 
 
 🌲 Contents
-  - Unit 2 Reading Texts from Common English 1 (Visang) 
+  - Unit 2 Reading Texts from Common English 1 (Visang)
+  - Reading material: 
 
    
 🌲 Lesson Plan
