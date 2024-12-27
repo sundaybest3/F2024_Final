@@ -4,8 +4,8 @@
    1. Students will be able to practice forms of plural nouns.
    2. Students will be able to tell the countability of the noun from the sentence.
 
-🌲 Target Learners
-  - High school students first grade 
+🌲 Target Learners and Settings
+  - This lesson plan is for high school first grade students who finished reading Unit 2 
 
 🌲 Contents
   - Unit 2 Reading Texts from Common English 1 (Visang)
@@ -15,7 +15,7 @@
 🌲 Lesson Plan
 | Activity | Purpose | Procedure | App link | 
 |----------|----------|----------| ----------|
-| 내용1    | 내용2    | 내용3    | 내용        |
+| 1.     | 내용2    | 내용3    | 내용        |
 | 내용4    | 내용5    | 내용6    | 내용        |
    
 
