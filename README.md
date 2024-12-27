@@ -5,10 +5,13 @@
    2. Students will be able to tell the countability of the noun from the sentence.
 
 🌲 Target Learners
+
    🍀High school students first grade 
 
 🌲 Contents
+
    🍀Unit 2 Reading Texts from Common English 1 (Visang) 
+
    
 🌲 Lesson Plan
    
