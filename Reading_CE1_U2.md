@@ -1,4 +1,4 @@
-### 출처
+### Source
 - 공통영어1(Common English 1), 홍민표, 2022개정, 비상교육(Visang)
 
 This material is used for non-profit educational purposes. The copyright belongs to the original author, and it will be removed upon request if necessary.
