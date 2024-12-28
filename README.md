@@ -9,7 +9,6 @@
   - Since several nouns are used as countable and uncountable in different sentences, it will be a great opportunity for having the students to focus on grammatical features that help to tell whether a certain noun is used as countable or uncountable in a particular context. 
 
 🌲 Contents
-  - Unit 2 Reading Texts from Common English 1 (Visang)
   - Reading material: [Click Here](https://github.com/sundaybest3/F2024_Final/blob/main/Reading_CE1_U2.md)
   - Streamlit home: [Click Here](https://sundaybest-3uon5uhcxphiudzzab8zna.streamlit.app/)
    
