@@ -6,6 +6,7 @@
 
 🌲 Target Learners and Settings
   - This lesson plan is for high school first grade students who finished reading Unit 2.
+  - Since several nouns are used as countable and uncountable in different sentences, it will be a great opportunity for having the students to focus on grammatical features that help to tell whether a certain noun is used as countable or uncountable in a particular context. 
 
 🌲 Contents
   - Unit 2 Reading Texts from Common English 1 (Visang)
