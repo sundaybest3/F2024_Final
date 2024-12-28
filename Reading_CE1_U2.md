@@ -1,3 +1,9 @@
+### 출처
+- 공통영어1(Common English 1), 홍민표, 2022개정, 비상교육(Visang)
+
+This material is used for non-profit educational purposes. The copyright belongs to the original author, and it will be removed upon request if necessary.
+
+
 # Odd Pairings That Work 
 You order a nice, juicy hamburger with some fries. What's next? Of course you have to have ketchup with your fries, right? Well, not for some people. In fact, some people prefer eating fries with mayonnaise, chili sauce, or even steak sauce. While ketchup with fries may seem quite ordinary, other combinations may seem rather odd. Read on to learn about some popular dishes that have flavor combinations that you may not have thought of. 
 Some people love this combination, while others can't seem to stand it. It can even cause quite heated arguments. If you haven't guessed already, it's the tasty or nasty--depending on your taste--ham and pineapple pizza. The man who created this pizza was neither Italian nor Hawaiian. A Greek immigrant from Canada, Sam Panopoulos did not want to stick to the usual ingredients on pizzas, like pepperoni and mushrooms. He spread canned pineapple and sliced ham onto a pizza and called it "the Hawaiian" because that's what was written on the pineapple can. Little did he know that he had created a classic combination. Even now, in the U.S. and U.K., no pizza menu seems complete without it. In Italy, however, most people find pineapple on pizza distastful. 
