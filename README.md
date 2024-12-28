@@ -5,7 +5,7 @@
    2. Students will be able to tell the countability of the noun from the sentence.
 
 🌲 Target Learners and Settings
-  - This lesson plan is for high school first grade students who finished reading Unit 2.
+  - This lesson plan is for high school first grade students who finished reading two texts in Unit 2, "Odd Pairings That Work" and "The World of Curries".
   - Since several nouns are used as countable and uncountable in different sentences, it will be a great opportunity for having the students to focus on grammatical features that help to tell whether a certain noun is used as countable or uncountable in a particular context. 
 
 🌲 Contents
