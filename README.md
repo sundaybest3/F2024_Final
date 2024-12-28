@@ -9,7 +9,7 @@
 
 🌲 Contents
   - Unit 2 Reading Texts from Common English 1 (Visang)
-  - Reading material: (https://github.com/sundaybest3/F2024_Final/blob/main/Reading_CE1_U2.md)
+  - Reading material: [Click Here](https://github.com/sundaybest3/F2024_Final/blob/main/Reading_CE1_U2.md)
   - Streamlit home: [Click Here](https://sundaybest-3uon5uhcxphiudzzab8zna.streamlit.app/)
    
 🌲 Applying NounSmart in Classes
