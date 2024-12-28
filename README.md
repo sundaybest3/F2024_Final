@@ -12,7 +12,7 @@
   - Reading material: [Click Here](https://github.com/sundaybest3/F2024_Final/blob/main/Reading_CE1_U2.md)
  
     (This material is used for non-profit educational purposes. The copyright belongs to the original author, and it will be removed upon request if necessary.)
-  - Streamlit home: [Click Here](https://sundaybest3-sundaybest-home.streamlit.app/)
+  - Streamlit home: [Click Here](https://sundaybest.streamlit.app/)
    
 🌲 Applying NounSmart in Classes
 | App Name | Purpose | How to Use | App link | 
