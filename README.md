@@ -16,7 +16,7 @@
 | Activity | Purpose | How to Use | App link | 
 |----------|----------|----------| ----------|
 | 1. Practice spelling    | For students to practice spelling of nouns with plural forms other than '-s'. | Teacher may ask students to use this app for review during pre- or post- activities. | (https://nounsmartspelling-hel4hpntntlt56hgphdgw4.streamlit.app/) |
-| 2. Determine the countability of nouns | 내용5    | 내용6    | 내용        |
+| 2. Determine the countability of nouns | For students to find out the countability of nouns based on the sentences from the textbook.   | Teachers may use this app in grammar lessons after reading the text. It will help students to find grammatical features--e.g. determiners, verb forms -- that determine the countability of the noun.| (https://nounsmartcountability-8zeyyjclx4pwyjpfdtmyhk.streamlit.app/)        |
    
 
 
